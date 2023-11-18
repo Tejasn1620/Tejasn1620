@@ -1,0 +1,1 @@
+Welcome! I'm Tejas N . I'm a recent graduate in Computer Science , passionate about leveraging SQL, Excel, Tableau, and foundational Python skills for data analysis. Eager to apply academic learning in real-world scenarios, I seek opportunities to contribute insights and drive decision-making through data-driven strategies. Let's connect and explore the possibilities together! 
