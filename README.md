@@ -9,7 +9,7 @@ Welcome to my GitHub profile!
 
 📄 Resume  
 
-🌐 [Portfolio Website ]([url](https://tejasn1620.github.io/MyPortfolio/)) 
+🌐 Portfolio Website: [🔗](https://tejasn1620.github.io/MyPortfolio/)
 
 📧 Email: Tejas.n1620@gmail.com
 
