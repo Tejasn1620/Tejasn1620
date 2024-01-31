@@ -7,13 +7,9 @@ Welcome to my GitHub profile!
 🚀 Quick Overview -
 🎓 Recent graduate in Bachelor of Computer Applications.
 
-📄 Resume  🌐 [Portfolio Website](https://tejasn1620.github.io/MyPortfolio/)
+📄 Resume  |  🌐 [Portfolio Website](https://tejasn1620.github.io/MyPortfolio/)  |  📧 [Email](Tejas.n1620@gmail.com)  |  💼 [LinkedIn](www.linkedin.com/in/tejasnraj) 
 
-📧 [Email](Tejas.n1620@gmail.com)
-
-💼 [LinkedIn](www.linkedin.com/in/tejasnraj) 
-
-💡 Skills -
+💡 My Skills -
 - Data Analysis
 - Data Visualization
 - Python
