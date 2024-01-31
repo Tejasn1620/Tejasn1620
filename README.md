@@ -5,9 +5,10 @@ I'm a recent graduate with a passion for Data Analysis.
 Welcome to my GitHub profile!
 
 🚀 Quick Overview -
-🎓 Recent graduate in Bachelor of Computer Applications.
 
-📄 Resume  |  🌐 [Portfolio Website](https://tejasn1620.github.io/MyPortfolio/)  |  📧 [Email](Tejas.n1620@gmail.com)  |  💼 [LinkedIn](www.linkedin.com/in/tejasnraj) 
+🎓 Recent graduate in Bachelor of Computer Applications from Bengaluru.
+
+📄 My Resume  |  🌐 [Portfolio Website](https://tejasn1620.github.io/MyPortfolio/)  |  📧 [Email](Tejas.n1620@gmail.com)  |  💼 [LinkedIn](www.linkedin.com/in/tejasnraj) 
 
 💡 My Skills -
 - Data Analysis
