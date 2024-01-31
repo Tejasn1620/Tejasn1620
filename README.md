@@ -7,9 +7,7 @@ Welcome to my GitHub profile!
 🚀 Quick Overview -
 🎓 Recent graduate in Bachelor of Computer Applications.
 
-📄 Resume : https://drive.google.com/file/d/1Jb6EydVxwoIhljwgNfFjx0d-exWlJJmg/view?usp=drive_link
-
-🌐 Portfolio Website : [LINK]( https://tejasn1620.github.io/MyPortfolio/)
+📄 Resume  🌐 [Portfolio Website]([url](https://tejasn1620.github.io/MyPortfolio/))  
 
 📧 Email: Tejas.n1620@gmail.com
 
